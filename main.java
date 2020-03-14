@@ -1,3 +1,4 @@
+package kg_TaoGe96_2020;
 import java.util.HashMap;
 
 /**
