@@ -19,7 +19,7 @@ public class main {
         System.out.println(helper(source, target)?"true":"false");
         
     }
-    public static boolean helper(String source, String target) {
+    private static boolean helper(String source, String target) {
         HashMap<Character,Character> map=new HashMap<>();
         for(int i=0;i<source.length();i++){
             char c=source.charAt(i);
