@@ -4,7 +4,7 @@ import java.util.HashMap;
 /**
  * main
  */
-public class main {
+public class Main {
 
     public static void main(String[] args) {
         if(args.length<2) {
